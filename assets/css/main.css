@@ -7,6 +7,12 @@
  * URL: http://blacktie.co
  */
 
+
+@font-face {
+	font-family: impact-label;
+	src: url(../font/impact_label.ttf);
+}
+
 body {
   background-color: #f2f2f2;
     font-family: "Lato";
